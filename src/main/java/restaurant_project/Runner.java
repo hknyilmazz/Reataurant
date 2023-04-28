@@ -9,6 +9,7 @@ public class Runner {
 
 
         //Lokalde değişiklik yaptım
+        //remote de değişiklik yaptım
     }
 
 }
